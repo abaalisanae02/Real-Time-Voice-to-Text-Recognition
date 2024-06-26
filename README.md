@@ -1,0 +1,2 @@
+## Abstract ##
+The "Real-Time Voice to Text Recognition" project aims to provide a convenient solution for quickly converting spoken ideas into written text. This project was inspired by the personal struggle of having ideas but being too busy or lazy to type them out. The application utilizes Streamlit for the user interface, Sounddevice for capturing audio, and the SpeechRecognition library for converting speech to text in real-time.
